@@ -5,8 +5,8 @@ export default {
     extend: {
       colors: {
         customBlack: '#1a1a1a',
-        customViolet: '#8e5e9a',
-        customLightViolet: '#af83c1',
+        customLightBlue: '#18D4E1',
+        customLightBlueHover: '#0ee1f0',
         customWhite: '#efebdb',
       },
       fontFamily: {
