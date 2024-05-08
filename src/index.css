@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'BruceForeverRegular';
+    src: url('./assets/fonts/BruceForeverRegular-X3jd2.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Slowdex';
+    src: url('./assets/fonts/Slowdex.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
